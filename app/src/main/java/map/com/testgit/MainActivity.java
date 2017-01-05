@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         //Test1
         //Test2
 // lol lol lol lol lol lol lol lol lol
+//        learnt git hub :P
         Utils.add(10,10);
     }
 }
